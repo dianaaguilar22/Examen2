@@ -11,7 +11,7 @@ export default function App() {
     return (
       <View>
         <Text style={styles.clientesYciudades}>
-          {props.nombre}
+          {props.nombre}gitgi
         </Text>
       </View>
     );
